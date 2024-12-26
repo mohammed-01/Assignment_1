@@ -1,0 +1,1 @@
+CNN gave Very low accuracy, which seems like random guessing
